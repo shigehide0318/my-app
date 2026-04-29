@@ -22,6 +22,7 @@ export default function Page() {
           <li>Next.jsでWebアプリを作る：OK</li>
           <li>GitHubにアップする：OK</li>
           <li>Vercelにアップする：OK</li>
+          <li>Storybookを導入する：NG</li>
         </ul>
       </section>
 
