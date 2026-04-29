@@ -19,9 +19,9 @@ export default function Page() {
       <section style={{ marginTop: "30px" }}>
         <h2>やりたいこと</h2>
         <ul>
-          <li>Next.jsでWebアプリを作る</li>
-          <li>Gitと連携する</li>
-          <li>AIと連携する</li>
+          <li>Next.jsでWebアプリを作る：OK</li>
+          <li>GitHubにアップする：OK</li>
+          <li>Vercelにアップする：OK</li>
         </ul>
       </section>
 
